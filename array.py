@@ -5,8 +5,10 @@ print('Jace Chandler')
 car = ['Ford','Chrysler','Dodge','Ram','Jeep','Chevy','GMC']
    
 # `problem 3. print the array to the console`
+print(car)
 
 # `problem 4. print the length of the array to the console `
+print(len(car))
 
 # `problem 5. Append Buick to the Array`
 
