@@ -50,4 +50,4 @@ my_array_length =len(car)
 array_string = 'The length of my array is '
 
 # `problem 18. print array_string concatenated with my_array_length to the console.`
-print(array_string,my_array_length)
+print(array_string + str(my_array_length))
